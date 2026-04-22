@@ -1,4 +1,4 @@
-index,p_elec_python,p_heat_python,m_flow_python,COP_python,status_python,T1_python,T2_python,T3_python,T_m_python
+index,py_P_elec,py_P_heat,py_m_flow,py_COP,py_status,py_T_1,py_T_2,py_T_3,py_T_m
 0,7.792,11.766,700.000,1.510,1.000,59.885,54.915,50.528,55.109
 1,5.708,8.448,700.000,1.480,1.000,62.173,58.414,54.608,58.398
 2,0.000,0.000,-0.000,1.460,-0.000,60.730,57.041,53.523,57.098
